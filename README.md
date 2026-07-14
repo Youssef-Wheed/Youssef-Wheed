@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">👋 Hi, I'm Youssef Wheed</h2>
-<h4 align="center">🔌 Embedded Systems Engineer | 💻 Passionate about low-level programming, drivers, and hardware-software integration</h4>
+<h4 align="center">🔌 Embedded Systems Engineer | 💻 Passionate about low-level programming, drivers, and hardware-software integration | 📱 Flutter Developer</h4>
 
 ---
 
@@ -13,7 +13,8 @@
 
 I'm an Embedded Systems Engineer with a strong passion for **bare-metal programming**, **device driver development**, and **low-level hardware/software interaction**.  
 I have solid hands-on experience with **PIC microcontrollers**, **C/Assembly**, and **Proteus simulation**, and I’m currently enhancing my skills in **system architecture**, **software design**, and **IoT development**.  
-I strive to write clean, modular, and efficient embedded code, following the best engineering practices.  
+Alongside embedded work, I also build cross-platform mobile apps with **Flutter & Dart**, which lets me connect hardware projects to clean, user-facing interfaces.  
+I strive to write clean, modular, and efficient code, following the best engineering practices.  
 
 ---
 
@@ -24,7 +25,15 @@ I strive to write clean, modular, and efficient embedded code, following the bes
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🧠 Concepts
 ![OOP](https://img.shields.io/badge/OOP_C++-orange?style=for-the-badge)
