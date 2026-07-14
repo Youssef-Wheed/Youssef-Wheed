@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=220&section=header&text=Youssef%20Wheed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%26%20Dart%20Developer%20%E2%80%A2%20Embedded%20Systems%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Youssef+Wheed" alt="Name"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Clean+Architecture+%7C+Bloc+%2F+Provider+%2F+GetX;Embedded+Systems+Engineer+%F0%9F%94%8C;From+Bare-Metal+Registers+to+Beautiful+Widgets" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0175C2&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer+%E2%80%A2+Embedded+Systems+Engineer;Clean+Architecture+%7C+Bloc+%2F+Provider+%2F+GetX;Embedded+Systems+Engineer+%F0%9F%94%8C;From+Bare-Metal+Registers+to+Beautiful+Widgets" alt="Typing SVG"/>
 
 <br>
 
@@ -12,15 +12,11 @@
 <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=Youssef-Wheed&style=for-the-badge&color=02569B&label=Profile+Views"/>
-
 </div>
 
 <br>
 
 ## 👨‍💻 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="110">
 
 ```dart
 class Youssef extends Developer {
@@ -138,42 +134,20 @@ class Youssef extends Developer {
 
 <br>
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Youssef-Wheed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Wheed&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Wheed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Wheed&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Youssef-Wheed/Youssef-Wheed/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-### 🌐 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Youssef-Wheed/Youssef-Wheed/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
-</p>
-
-<br>
-
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-waheed-a40a77263"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:wayoussef138@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Youssef-Wheed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/youssef-waheed-a40a77263">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:wayoussef138@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Youssef-Wheed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=120&section=footer"/>
 <p><b>"From widgets to registers — I build things that work, and work beautifully."</b></p>
 </div>
