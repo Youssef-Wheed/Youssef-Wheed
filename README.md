@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Youssef Wheed - Flutter & Embedded Systems Engineer" width="100%"/>
+<img src="./assets/header.svg" alt="Youssef Wheed - Flutter Developer & Embedded Systems Engineer" width="100%"/>
 
 <img src="./assets/typing.svg" alt="Flutter & Dart Developer | Embedded Systems Engineer" width="800"/>
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -24,34 +24,36 @@ class Youssef extends Developer {
 }
 ```
 
-- 📱 Focused on **Flutter & Dart**, building responsive, well-architected mobile apps with clean state management and polished UI/UX.
-- 🔌 Background in **Embedded Systems** (PIC microcontrollers, bare-metal C/Assembly, Proteus simulation). I understand software from the hardware up.
-- 🧱 Currently leveling up **Clean Architecture**, **Bloc / Provider / Riverpod**, and **API-driven app design**.
-- 🌱 Growing in **system design** and **IoT integration**, connecting devices to the apps that control them.
-- ⚡ I care about code that is clean, modular, and pleasant to maintain, whether it's a widget tree or a register-level driver.
+- 📱 **Flutter & Dart:** responsive, well-architected mobile apps with clean state management and polished UI/UX.
+- 🔌 **Embedded Systems:** PIC microcontrollers, bare-metal C/Assembly, Proteus simulation. I understand software from the hardware up.
+- 🧱 **Leveling up:** Clean Architecture, Bloc / Provider / Riverpod, and API-driven app design.
+- 🌱 **Growing in:** system design and IoT integration, connecting devices to the apps that control them.
+- ⚡ I care about code that is clean, modular, and pleasant to maintain, from a widget tree to a register-level driver.
 
----
+<br/>
 
-## 📱 Flutter & Mobile Development
+## 📱 Mobile Development
 
-<img src="./assets/flutter-skills.svg" alt="Flutter skills: Core, State Management, Backend & Data, Architecture" width="800"/>
+<div align="center">
+  <img src="./assets/mobile.svg" alt="Flutter, Dart, Firebase, State Management, Clean Architecture" width="800"/>
+</div>
 
----
+<br/>
 
-## 🚀 Full Tech Stack
+## 🔌 Embedded & Engineering
 
-<img src="./assets/tech-stack.svg" alt="Tech stack: Languages, Tools, Embedded & Hardware, Concepts" width="800"/>
+<div align="center">
+  <img src="./assets/embedded.svg" alt="C, C++, Python, Assembly, Arduino, STM32, Git, Linux, Proteus" width="800"/>
+</div>
 
----
+<br/>
 
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-waheed-a40a77263"><b>LinkedIn</b></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:wayoussef138@gmail.com"><b>Email</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Youssef-Wheed"><b>GitHub</b></a>
+  <a href="https://www.linkedin.com/in/youssef-waheed-a40a77263"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="46"/></a>&nbsp;&nbsp;
+  <a href="mailto:wayoussef138@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="46"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Youssef-Wheed"><img src="./assets/btn-github.svg" alt="GitHub" height="46"/></a>
 </p>
 
 <div align="center">
